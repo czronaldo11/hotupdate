@@ -13,10 +13,10 @@
     <!--ID为99的礼物，是活动专用礼物“选票” -->  
     <!--ID为100的礼物，是主播PK活动专用礼物“壕令”，只有在比赛中显示 -->  
     <Pc> 
-         <default gifts="1 16 200 201 202 53 50 54 51 52 5 48 2 45 38 43 46 49 41 44 33 4 47 19 3 18 14 20 40 30 31 32" />
+        <default gifts="1 16 200 201 202 53 50 54 51 52 5 48 2 45 38 43 46 49 41 44 33 4 47 19 3 18 14 20 40 30 31 32" />
     </Pc>
     <Mobile> 
-         <default gifts="56 53 50 54 51 52 5 48 2 45 38 43 46 49 41 44 33 4 47 19 3 18 14 20 40 30 31 32"/>  
+        <default gifts="56 53 50 54 51 52 5 48 2 45 38 43 46 49 41 44 33 4 47 19 3 18 14 20 40 30 31 32"/>  
     </Mobile>
     <period begint="2014-1-15 00:00:00" endt="2014-2-7 23:59:59" gifts="1 100 6 7 2 3 4 5"/>  
     <period begint="2014-2-8 00:00:00" endt="2014-2-28 23:59:59" gifts="1 100 8 9 6 7 2 3 4 5"/>  
@@ -1940,7 +1940,6 @@
     <AnchorExp>1998</AnchorExp>  
     <Charm>3996</Charm>  
     <NumForScrollInfo>2</NumForScrollInfo>  
-    <IsNewGift>1</IsNewGift>
     <Pc> 
       <Icon>Znewui_shipinlipintb47</Icon>  
       <!-- 跑马灯显示需要的数量 大于或等于该值才显示-->  
@@ -1963,11 +1962,7 @@
       </DropList> 
     </Pc>  
     <Mobile> 
-      <!--  
-          <fullscreen_old_item count="1" />
-      -->
-      <!-- 静态礼物配置 -->
-      <fullscreen_new_item count="1" path="48.html" />
+      <fullscreen_old_item count="1" />
       <Icon>str_live_gift_detail_44</Icon>  
       <DropList> 
         <!-- 下拉列表选项-->  
