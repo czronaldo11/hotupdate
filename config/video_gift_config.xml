@@ -1940,6 +1940,7 @@
     <AnchorExp>1998</AnchorExp>  
     <Charm>3996</Charm>  
     <NumForScrollInfo>2</NumForScrollInfo>  
+    <IsNewGift>1</IsNewGift>
     <Pc> 
       <Icon>Znewui_shipinlipintb47</Icon>  
       <!-- 跑马灯显示需要的数量 大于或等于该值才显示-->  
@@ -1962,7 +1963,11 @@
       </DropList> 
     </Pc>  
     <Mobile> 
-      <fullscreen_old_item count="1" />
+      <!--  
+          <fullscreen_old_item count="1" />
+      -->
+      <!-- 静态礼物配置 -->
+      <fullscreen_new_item count="1" path="48.html" />
       <Icon>str_live_gift_detail_44</Icon>  
       <DropList> 
         <!-- 下拉列表选项-->  
