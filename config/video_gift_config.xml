@@ -1916,7 +1916,7 @@
       </DropList> 
     </Pc>  
     <Mobile> 
-      <Icon>fenhongzhadan</Icon>  
+      <Icon>zmobileui_liwufenhongzhadan</Icon>  
       <DropList> 
         <!-- 下拉列表选项-->  
         <item count="10" str="十全十美"/>  
@@ -1964,7 +1964,7 @@
     </Pc>  
     <Mobile> 
       <fullscreen_new_item count="1" path="48.html"/>
-      <Icon>zmobileui_liwu</Icon>  
+      <Icon>zmobileui_liwuhalei</Icon>  
       <DropList> 
         <!-- 下拉列表选项-->  
         <item count="1" str="一心一意"/>  
