@@ -1916,7 +1916,7 @@
       </DropList> 
     </Pc>  
     <Mobile> 
-      <Icon>zmobileui_liwufenhongzhadan</Icon>  
+      <Icon>fenhongzhadan</Icon>  
       <DropList> 
         <!-- 下拉列表选项-->  
         <item count="10" str="十全十美"/>  
@@ -1939,8 +1939,8 @@
     <Exp>1998</Exp>  
     <AnchorExp>1998</AnchorExp>  
     <Charm>3996</Charm>  
-    <NumForScrollInfo>2</NumForScrollInfo> 
-	  <IsNewGift>true</IsNewGift>
+    <NumForScrollInfo>2</NumForScrollInfo>  
+    <IsNewGift>1</IsNewGift>
     <Pc> 
       <Icon>Znewui_shipinlipintb47</Icon>  
       <!-- 跑马灯显示需要的数量 大于或等于该值才显示-->  
@@ -1963,8 +1963,8 @@
       </DropList> 
     </Pc>  
     <Mobile> 
-      <fullscreen_new_item count="1" path="48.html" />
-      <Icon>zmobileui_liwuhalei</Icon>  
+      <fullscreen_new_item count="1" path="48.html"/>
+      <Icon>zmobileui_liwu</Icon>  
       <DropList> 
         <!-- 下拉列表选项-->  
         <item count="1" str="一心一意"/>  
