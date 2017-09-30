@@ -54,7 +54,7 @@
 		<DefaultConcert>
 			<Name>str_live_gift_name_29</Name>
 			<Intro>str_live_gift_detail_29</Intro>
-			 <iconNormal>bt_anke</iconNormal>
+			<iconNormal>bt_anke</iconNormal>
 			<iconPressed>bt_ankepressdown</iconPressed>
 			 <iconDisable>bt_ankedisable</iconDisable>
 			<iconEffect>
@@ -135,9 +135,6 @@
 			</SkinItem>
 		</GiftSkins>
     </GiftData>
-
-
-
     <!-- 愚人节礼物 -->
     <GiftData gift_type="2" id="10">
         <Name>str_live_gift_name_10</Name>
@@ -3233,7 +3230,7 @@
             </DropList>
         </Pc>
         <Mobile>
-            <Icon>gift_89</Icon>
+            <Icon>gift_8911</Icon>
             <FaceCutePath>video_face_gift_89</FaceCutePath>
             <FaceCuteTime>3</FaceCuteTime>  
             <DropList> 
